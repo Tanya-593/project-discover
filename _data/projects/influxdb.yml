@@ -1,0 +1,9 @@
+name: InfluxDB
+desc: InfluxDB is a time-series database
+site: https://influxdata.com/time-series-platform/influxdb/
+tags:
+  - go
+  - database
+upforgrabs:
+  name: help wanted
+  link: https://github.com/influxdb/influxdb/labels/help%20wanted
